@@ -36,7 +36,7 @@ pip install -r requirements
 5. Runs the main script.
 
 ```bash
-python3 who-is.py
+python3 who_is.py
 ```
 
 # How it Works:
@@ -48,7 +48,7 @@ python3 who-is.py
 
 # Example Output:
 
-If you query a domain like example.com, you may get an output similar to this:
+If you query a domain like mtn.ng, you may get an output similar to this:
 
 ```css
 Enter the domain name (e.g., example.com): mtn.ng
@@ -92,4 +92,9 @@ WHOIS Data for mtn.ng
 
 > **Rate Limiting**: _WHOIS servers may limit the number of queries you can perform in a short time. If you're querying many domains, you may encounter rate limits. Consider using a paid service for bulk queries or adding delays between queries._
 
+# Support Us:
+Follow us at our (github page)[https://github.com/evilfeonix]
+Fork and Star our repositories
+
+# Thank you for your support...
 
